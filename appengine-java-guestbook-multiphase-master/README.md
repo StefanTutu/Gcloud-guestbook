@@ -55,3 +55,16 @@ e.g.
 
 * See [LICENSE](LICENSE)
 
+## Useful commands for gcloud
+
+Mvn appengine:help
+Mvn appengine:update
+Gcloud init
+Mvn appengine:devserver –> depoloy local
+
+tips:
+Servlet folosit care extinde httpServlet 
+Serviciu folosit pentru UserService.
+Index pentru valorile care vor sa fei cautate din entitati 
+
+
